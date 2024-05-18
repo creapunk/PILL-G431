@@ -2,7 +2,7 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](license.md)
 
-![](./assets/PILL-G431-preview.png)
+![](./assets/PILL-G431-PREVIEW.PNG)
 
 $6@25pcs BOM BLACKPILL-sized and almost fully pin-compatible development board with integrated CAN-FD 5MBit/s transceiver, 5-25V input, 5V 1A output DC-DC converter, support for ST UCPD for Power Delivery, and optional external FLASH memory.
 
